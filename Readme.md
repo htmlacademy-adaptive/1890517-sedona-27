@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Ирина  Дрантусова](https://up.htmlacademy.ru/adaptive/27/user/1890517).
-* Наставник: [Наталья Зотова](https://htmlacademy.ru/profile/id1079951).
+* Наставник : [Наталья Зотова](https://htmlacademy.ru/profile/id1079951).
 
 ---
 
